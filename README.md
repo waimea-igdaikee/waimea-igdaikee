@@ -1,5 +1,7 @@
 # Indiana Daikee
-## Hello
+
+- I am in 300DTD
+- ...
 
 <!--
 **waimea-igdaikee/waimea-igdaikee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
