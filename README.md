@@ -1,7 +1,8 @@
 # Indiana Daikee
 
+- I am a student at Waimea College
 - I am in 300DTD
-- ...
+- I am good with computers
 
 <!--
 **waimea-igdaikee/waimea-igdaikee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
